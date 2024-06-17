@@ -1,0 +1,206 @@
+[
+    {
+        "merged": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-merged_res-37:\\drawable_white_background.xml.flat",
+        "source": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-main-39:\\drawable\\white_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-merged_res-37:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-main-39:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-merged_res-37:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-main-39:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-merged_res-37:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-main-39:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-merged_res-37:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-main-39:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-merged_res-37:\\mipmap-mdpi_ic_launcher_app_foreground.webp.flat",
+        "source": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-main-39:\\mipmap-mdpi\\ic_launcher_app_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-merged_res-37:\\mipmap-anydpi-v26_ic_launcher_app.xml.flat",
+        "source": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-main-39:\\mipmap-anydpi-v26\\ic_launcher_app.xml"
+    },
+    {
+        "merged": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-merged_res-37:\\mipmap-hdpi_ic_launcher_app_foreground.webp.flat",
+        "source": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-main-39:\\mipmap-hdpi\\ic_launcher_app_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-merged_res-37:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-main-39:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-merged_res-37:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-main-39:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-merged_res-37:\\drawable_ic_baseline_email_24.xml.flat",
+        "source": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-main-39:\\drawable\\ic_baseline_email_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-merged_res-37:\\mipmap-xxxhdpi_ic_launcher_app_round.webp.flat",
+        "source": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-main-39:\\mipmap-xxxhdpi\\ic_launcher_app_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-merged_res-37:\\drawable_akwhitelogo.png.flat",
+        "source": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-main-39:\\drawable\\akwhitelogo.png"
+    },
+    {
+        "merged": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-merged_res-37:\\drawable_blue_border.xml.flat",
+        "source": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-main-39:\\drawable\\blue_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-merged_res-37:\\mipmap-hdpi_ic_launcher_app.webp.flat",
+        "source": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-main-39:\\mipmap-hdpi\\ic_launcher_app.webp"
+    },
+    {
+        "merged": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-merged_res-37:\\layout_activity_scan_qr.xml.flat",
+        "source": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-main-39:\\layout\\activity_scan_qr.xml"
+    },
+    {
+        "merged": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-merged_res-37:\\mipmap-xxxhdpi_ic_launcher_app.webp.flat",
+        "source": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-main-39:\\mipmap-xxxhdpi\\ic_launcher_app.webp"
+    },
+    {
+        "merged": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-merged_res-37:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-main-39:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-merged_res-37:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-main-39:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-merged_res-37:\\mipmap-xhdpi_ic_launcher_app_round.webp.flat",
+        "source": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-main-39:\\mipmap-xhdpi\\ic_launcher_app_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-merged_res-37:\\mipmap-xhdpi_ic_launcher_app.webp.flat",
+        "source": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-main-39:\\mipmap-xhdpi\\ic_launcher_app.webp"
+    },
+    {
+        "merged": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-merged_res-37:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-main-39:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-merged_res-37:\\mipmap-mdpi_ic_launcher_app_round.webp.flat",
+        "source": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-main-39:\\mipmap-mdpi\\ic_launcher_app_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-merged_res-37:\\drawable_profilebkg.jpg.flat",
+        "source": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-main-39:\\drawable\\profilebkg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-merged_res-37:\\layout_activity_edit_profile.xml.flat",
+        "source": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-main-39:\\layout\\activity_edit_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-merged_res-37:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-main-39:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-merged_res-37:\\layout_activity_signup.xml.flat",
+        "source": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-main-39:\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-merged_res-37:\\mipmap-xhdpi_ic_launcher_app_foreground.webp.flat",
+        "source": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-main-39:\\mipmap-xhdpi\\ic_launcher_app_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-merged_res-37:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-main-39:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-merged_res-37:\\drawable_pagebkg.jpg.flat",
+        "source": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-main-39:\\drawable\\pagebkg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-merged_res-37:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-main-39:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-merged_res-37:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-main-39:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-merged_res-37:\\drawable_ic_baseline_roll_24.xml.flat",
+        "source": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-main-39:\\drawable\\ic_baseline_roll_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-merged_res-37:\\drawable_ic_baseline_person_24.xml.flat",
+        "source": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-main-39:\\drawable\\ic_baseline_person_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-merged_res-37:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-main-39:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-merged_res-37:\\drawable_ic_launcher_app_background.xml.flat",
+        "source": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-main-39:\\drawable\\ic_launcher_app_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-merged_res-37:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-main-39:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-merged_res-37:\\layout_activity_profile.xml.flat",
+        "source": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-main-39:\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-merged_res-37:\\mipmap-xxhdpi_ic_launcher_app_foreground.webp.flat",
+        "source": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-main-39:\\mipmap-xxhdpi\\ic_launcher_app_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-merged_res-37:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-main-39:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-merged_res-37:\\drawable_ic_baseline_date_24.xml.flat",
+        "source": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-main-39:\\drawable\\ic_baseline_date_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-merged_res-37:\\mipmap-xxxhdpi_ic_launcher_app_foreground.webp.flat",
+        "source": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-main-39:\\mipmap-xxxhdpi\\ic_launcher_app_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-merged_res-37:\\drawable_ic_baseline_person_pin_24.xml.flat",
+        "source": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-main-39:\\drawable\\ic_baseline_person_pin_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-merged_res-37:\\drawable_ic_baseline_lock_24.xml.flat",
+        "source": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-main-39:\\drawable\\ic_baseline_lock_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-merged_res-37:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-main-39:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-merged_res-37:\\mipmap-mdpi_ic_launcher_app.webp.flat",
+        "source": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-main-39:\\mipmap-mdpi\\ic_launcher_app.webp"
+    },
+    {
+        "merged": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-merged_res-37:\\mipmap-xxhdpi_ic_launcher_app_round.webp.flat",
+        "source": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-main-39:\\mipmap-xxhdpi\\ic_launcher_app_round.webp"
+    },
+    {
+        "merged": "com.example.signuploginrealtime.app-merged_res-37:/layout_activity_signup.xml.flat",
+        "source": "com.example.signuploginrealtime.app-main-39:/layout/activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-merged_res-37:\\mipmap-anydpi-v26_ic_launcher_app_round.xml.flat",
+        "source": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-main-39:\\mipmap-anydpi-v26\\ic_launcher_app_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-merged_res-37:\\mipmap-xxhdpi_ic_launcher_app.webp.flat",
+        "source": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-main-39:\\mipmap-xxhdpi\\ic_launcher_app.webp"
+    },
+    {
+        "merged": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-merged_res-37:\\mipmap-hdpi_ic_launcher_app_round.webp.flat",
+        "source": "C:\\Users\\aniba\\.gradle\\daemon\\8.2\\com.example.signuploginrealtime.app-main-39:\\mipmap-hdpi\\ic_launcher_app_round.webp"
+    }
+]

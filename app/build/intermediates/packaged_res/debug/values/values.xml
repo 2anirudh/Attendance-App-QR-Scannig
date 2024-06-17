@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="blue">#008ECC</color>
+    <color name="grey">#ff424242</color>
+    <color name="ic_launcher_app_background">#FFFFFF</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Attendance System</string>
+    <string name="gcm_defaultSenderId" translatable="false">831042908251</string>
+    <string name="google_api_key" translatable="false">AIzaSyDaKRdQ7N_GOtW2e7KScch2L_icDljnuUk</string>
+    <string name="google_app_id" translatable="false">1:831042908251:android:d4f841c8f8b9fa861a8f7e</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDaKRdQ7N_GOtW2e7KScch2L_icDljnuUk</string>
+    <string name="google_storage_bucket" translatable="false">attendance-ab28.appspot.com</string>
+    <string name="project_id" translatable="false">attendance-ab28</string>
+    <style name="Theme.SignupLoginRealtime" parent="Theme.MaterialComponents.Light.NoActionBar">
+        
+        <item name="colorPrimary">@color/blue</item>
+        <item name="colorPrimaryVariant">@color/blue</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimary</item>
+        
+    </style>
+</resources>

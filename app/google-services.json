@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "831042908251",
+    "project_id": "attendance-ab28",
+    "storage_bucket": "attendance-ab28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831042908251:android:d4f841c8f8b9fa861a8f7e",
+        "android_client_info": {
+          "package_name": "com.example.signuploginrealtime"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaKRdQ7N_GOtW2e7KScch2L_icDljnuUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
